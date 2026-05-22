@@ -6,10 +6,6 @@ Este dataset contiene datos históricos del Industrial Product Price Index (IPPI
 
 El IPPI mide los cambios en los precios que los productores canadienses reciben por bienes industriales manufacturados. Los datos permiten analizar tendencias inflacionarias, evolución de precios industriales y comportamiento económico a lo largo de más de seis décadas.
 
-Se desarrolló un dashboard analítico utilizando datos históricos del Industrial Product Price Index (IPPI) de Canadá entre 1956 y 2024, con el objetivo de analizar tendencias inflacionarias, evolución de precios industriales y variaciones económicas a lo largo del tiempo.
-
-En el presente análisis se trabajó con datos históricos del Industrial Product Price Index (IPPI) de Canadá correspondientes al período 1956–2024.
-
 Durante el desarrollo del proyecto se analizaron los siguientes KPIs principales:
 
 Variación anual del índice industrial
